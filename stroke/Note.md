@@ -1,0 +1,1 @@
+stroke dash offset and strike dash array
